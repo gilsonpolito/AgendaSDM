@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AgendaSDM</string>
+    <string name="adicionar_contato">Adicionar Contato</string>
+    <string name="sair">Sair</string>
+    <string name="editar">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="chamar">Chamar</string>
+    <string name="sem_permissao_chamar_contato">Sem permissão para chamar o contato</string>
+    <string name="contato_removido">Contato removido!</string>
+    <string name="nome">Nome</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="telefone">Telefone</string>
+    <string name="hint_mascara_telefone">(99) 99999-9999</string>
+    <string name="email">E-mail</string>
+    <string name="salvar">Salvar</string>
+    <string name="hint_email">nome@exemplo.com</string>
+    <string name="procurar">Procurar</string>
+    <string name="nome_do_contato">Nome do contato</string>
+</resources>
